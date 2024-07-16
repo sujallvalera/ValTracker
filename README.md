@@ -11,6 +11,7 @@ Fetch detailed statistics of any Valorant player by using the Riot ID. The scrip
     - Clone the repo:
       ```
       git clone https://github.com/yourusername/ValTracker.git
+      cd ValTracker
       cd valTracker-py
       ```
     - Install the dependencies:
@@ -34,6 +35,7 @@ Fetch detailed statistics of any Valorant player by using the Riot ID. The scrip
     - Clone the repo:
       ```
       git clone https://github.com/yourusername/ValTracker.git
+      cd ValTracker
       cd valTracker-js
       ```
     - Install the dependencies:
