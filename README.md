@@ -23,11 +23,12 @@ Fetch detailed statistics of any Valorant player by using the Riot ID. The scrip
       API_KEY=YOUR_SCRAPERAPI_KEY
       ```
     - Execution:
+      - Enter the riotID on line 8;
+      ```riotID = 'SEN TenZ#0505'```
       - Run the valTracker.py file on your machine;
       ```python
          python valTracker.py
       ```   
-      - Enter the riotID on line 8 `riotID = 'SEN TenZ#0505'`;
       - Viola! You have recieved the stats of your given player.
      
 
@@ -47,11 +48,12 @@ Fetch detailed statistics of any Valorant player by using the Riot ID. The scrip
       API_KEY=YOUR_SCRAPERAPI_KEY
       ```
     - Execution:
+      - Enter the riotID on line 5;
+      ```riotID = 'SEN TenZ#0505'```
       - Run the valTracker.js file on your machine;
       ```js
          node valTracker.js
       ```   
-      - Enter the riotID on line 5 `riotID = 'SEN TenZ#0505'`;
       - Viola! You have recieved the stats of your given player.
        
 
